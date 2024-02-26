@@ -1,0 +1,23 @@
+/tambah [jumlah] [deskripsi]: Menambahkan catatan pengeluaran atau pemasukan ke dalam catatan keuangan. Contoh: /tambah 50 Makan malam di restoran.
+
+/lihat [tanggal]: Melihat catatan keuangan untuk tanggal tertentu atau rentang waktu. Contoh: /lihat 2024-02-21 atau /lihat 2024-02-01 2024-02-28.
+
+/total: Menampilkan total pengeluaran dan pemasukan selama periode waktu tertentu.
+
+/kategori [kategori]: Menampilkan catatan keuangan berdasarkan kategori tertentu. Contoh: /kategori makanan.
+
+/hapus [ID]: Menghapus catatan keuangan berdasarkan ID. Contoh: /hapus 123.
+
+/grafik [tanggal]: Menampilkan grafik atau visualisasi data berdasarkan catatan keuangan untuk tanggal tertentu atau periode waktu tertentu.
+
+/export [format]: Mengekspor catatan keuangan ke dalam format tertentu, misalnya CSV atau PDF.
+
+/bantuan: Menampilkan pesan bantuan atau panduan singkat tentang cara menggunakan bot.
+
+/setelan: Memungkinkan pengguna untuk mengatur preferensi atau pengaturan bot, seperti mata uang default atau kategori pengeluaran.
+
+/statistik: Menampilkan statistik atau ringkasan tentang pengeluaran dan pemasukan, misalnya total bulanan atau rata-rata harian.
+
+/bulanan: Menampilkan ringkasan pengeluaran dan pemasukan bulanan.
+
+/pengingat [tanggal] [pesan]: Mengatur pengingat untuk tanggal tertentu dengan pesan tertentu.

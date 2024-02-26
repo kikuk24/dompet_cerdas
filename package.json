@@ -1,0 +1,20 @@
+{
+  "name": "bot-tele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "bot": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^12.0.0",
+    "moment": "^2.30.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.1",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
